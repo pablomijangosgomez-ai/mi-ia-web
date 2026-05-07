@@ -1,8 +1,5 @@
-streamlit==1.32.2
-tensorflow==2.15.0
-keras==2.15.0
-numpy==1.26.4
-opencv-python-headless==4.9.0.80
-streamlit-drawable-canvas==0.9.3
-protobuf==3.20.3
-h5py==3.10.0
+streamlit 
+tensorflow 
+streamlit-drawable-canvas 
+opencv-python-headless 
+numpy 
